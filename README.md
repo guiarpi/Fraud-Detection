@@ -77,7 +77,7 @@ In this project, there are 3 pieces of code related to Fraud Detection:
     Calculating fraud percentage using IF ELSE clause
 
 ### Step 7: Automate Fraud Report Generation with Cron Job
-    This step to be followen on Terminal (on Mac)
+    This step to be followed on Terminal (on Mac)
 
 ### Step 8: Create Fraud Alerts Table
     Using CREATE TABLE IF NOT EXISTS clause 
@@ -88,4 +88,4 @@ In this project, there are 3 pieces of code related to Fraud Detection:
     Inserting an alert if fraud exceeds 10% using IF clause
 
 ### Step 10: Automate Fraud Alerts with Cron Job
-    This step to be followen on Terminal (on Mac)
+    This step to be followed on Terminal (on Mac)
